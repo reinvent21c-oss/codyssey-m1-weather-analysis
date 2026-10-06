@@ -71,10 +71,10 @@ codyssey-m1-weather-analysis/
 
 macOS/Linux 터미널에서 아래 순서로 실행한다. 먼저 Python 3.12.14가 설치되어 있는지 `python3 --version`으로 확인한다.
 
-1. 프로젝트 폴더를 준비하고 이동한다. 저장소가 공개된 뒤에는 아래 명령의 `<저장소 URL>`을 실제 주소로 바꾸어 실행한다. 현재는 저장소 URL이 정해지지 않았다. 이미 프로젝트 폴더가 있다면 clone을 생략하고 해당 폴더로 이동한다.
+1. 아래 명령으로 GitHub 저장소를 내려받고 프로젝트 폴더로 이동한다. 이미 프로젝트 폴더가 있다면 clone을 생략하고 해당 폴더로 이동한다.
 
    ```bash
-   git clone <저장소 URL> codyssey-m1-weather-analysis
+   git clone https://github.com/reinvent21c-oss/codyssey-m1-weather-analysis.git
    cd codyssey-m1-weather-analysis
    ```
 
